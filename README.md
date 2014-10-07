@@ -3,6 +3,11 @@ nexus-npm-registry-docker-image
 
 This repository is for the build of the Nexus NPM Registry 2.10.0 that supports NPM private registry. The description of this release is documented at https://issues.sonatype.org/browse/NEXUS-5852.
 
+Requirement
+===========
+
+**Before continuing, make sure you have npm client version 1.4.x or newer.**
+
 Installing
 ==========
 
